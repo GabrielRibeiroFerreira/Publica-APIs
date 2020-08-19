@@ -7,13 +7,14 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1DF8C39E4F2023FF68D66D78 /* Pods_Publica_APIS.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 218C3DD135C4EB3390D40B56 /* Pods_Publica_APIS.framework */; };
 		2A406CF924ED856500985388 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A406CF824ED856500985388 /* AppDelegate.swift */; };
 		2A406CFB24ED856500985388 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A406CFA24ED856500985388 /* SceneDelegate.swift */; };
-		2A406CFD24ED856500985388 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A406CFC24ED856500985388 /* ViewController.swift */; };
 		2A406D0024ED856500985388 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2A406CFE24ED856500985388 /* Main.storyboard */; };
 		2A406D0224ED856900985388 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2A406D0124ED856900985388 /* Assets.xcassets */; };
 		2A406D0524ED856900985388 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2A406D0324ED856900985388 /* LaunchScreen.storyboard */; };
 		2A406D1024ED856A00985388 /* Publica_APISTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A406D0F24ED856A00985388 /* Publica_APISTests.swift */; };
+		A624098CBA567F219400C9B8 /* Pods_Publica_APISTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 609A7DF6A6B1C13203F90BA9 /* Pods_Publica_APISTests.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -27,10 +28,11 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		1FEBF2ED318E1D26EF889FE3 /* Pods-Publica-APISTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Publica-APISTests.debug.xcconfig"; path = "Target Support Files/Pods-Publica-APISTests/Pods-Publica-APISTests.debug.xcconfig"; sourceTree = "<group>"; };
+		218C3DD135C4EB3390D40B56 /* Pods_Publica_APIS.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Publica_APIS.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		2A406CF524ED856500985388 /* Publica-APIS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Publica-APIS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2A406CF824ED856500985388 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		2A406CFA24ED856500985388 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		2A406CFC24ED856500985388 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		2A406CFF24ED856500985388 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		2A406D0124ED856900985388 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2A406D0424ED856900985388 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -38,6 +40,10 @@
 		2A406D0B24ED856A00985388 /* Publica-APISTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Publica-APISTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2A406D0F24ED856A00985388 /* Publica_APISTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Publica_APISTests.swift; sourceTree = "<group>"; };
 		2A406D1124ED856A00985388 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4894B26DE08CD0268D3D20C0 /* Pods-Publica-APISTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Publica-APISTests.release.xcconfig"; path = "Target Support Files/Pods-Publica-APISTests/Pods-Publica-APISTests.release.xcconfig"; sourceTree = "<group>"; };
+		566F8F8483B7C5EE759AE70E /* Pods-Publica-APIS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Publica-APIS.debug.xcconfig"; path = "Target Support Files/Pods-Publica-APIS/Pods-Publica-APIS.debug.xcconfig"; sourceTree = "<group>"; };
+		609A7DF6A6B1C13203F90BA9 /* Pods_Publica_APISTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Publica_APISTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		A1B7F7D259AB49462E6ABF5E /* Pods-Publica-APIS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Publica-APIS.release.xcconfig"; path = "Target Support Files/Pods-Publica-APIS/Pods-Publica-APIS.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -45,6 +51,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1DF8C39E4F2023FF68D66D78 /* Pods_Publica_APIS.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -52,6 +59,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A624098CBA567F219400C9B8 /* Pods_Publica_APISTests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -64,6 +72,8 @@
 				2A406CF724ED856500985388 /* Publica-APIS */,
 				2A406D0E24ED856A00985388 /* Publica-APISTests */,
 				2A406CF624ED856500985388 /* Products */,
+				32F51438623CFCFF95B347A3 /* Pods */,
+				8D60221DB2C47B1978CE2BBF /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -79,9 +89,7 @@
 		2A406CF724ED856500985388 /* Publica-APIS */ = {
 			isa = PBXGroup;
 			children = (
-				2A406CF824ED856500985388 /* AppDelegate.swift */,
-				2A406CFA24ED856500985388 /* SceneDelegate.swift */,
-				2A406CFC24ED856500985388 /* ViewController.swift */,
+				2A406D1A24ED871D00985388 /* ViewController */,
 				2A406CFE24ED856500985388 /* Main.storyboard */,
 				2A406D0124ED856900985388 /* Assets.xcassets */,
 				2A406D0324ED856900985388 /* LaunchScreen.storyboard */,
@@ -99,6 +107,36 @@
 			path = "Publica-APISTests";
 			sourceTree = "<group>";
 		};
+		2A406D1A24ED871D00985388 /* ViewController */ = {
+			isa = PBXGroup;
+			children = (
+				2A406CF824ED856500985388 /* AppDelegate.swift */,
+				2A406CFA24ED856500985388 /* SceneDelegate.swift */,
+			);
+			path = ViewController;
+			sourceTree = "<group>";
+		};
+		32F51438623CFCFF95B347A3 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				566F8F8483B7C5EE759AE70E /* Pods-Publica-APIS.debug.xcconfig */,
+				A1B7F7D259AB49462E6ABF5E /* Pods-Publica-APIS.release.xcconfig */,
+				1FEBF2ED318E1D26EF889FE3 /* Pods-Publica-APISTests.debug.xcconfig */,
+				4894B26DE08CD0268D3D20C0 /* Pods-Publica-APISTests.release.xcconfig */,
+			);
+			name = Pods;
+			path = Pods;
+			sourceTree = "<group>";
+		};
+		8D60221DB2C47B1978CE2BBF /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				218C3DD135C4EB3390D40B56 /* Pods_Publica_APIS.framework */,
+				609A7DF6A6B1C13203F90BA9 /* Pods_Publica_APISTests.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -106,9 +144,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 2A406D1424ED856A00985388 /* Build configuration list for PBXNativeTarget "Publica-APIS" */;
 			buildPhases = (
+				CE7E2E334C01A415DD9F89C2 /* [CP] Check Pods Manifest.lock */,
 				2A406CF124ED856400985388 /* Sources */,
 				2A406CF224ED856400985388 /* Frameworks */,
 				2A406CF324ED856400985388 /* Resources */,
+				7A87609965DBD5CDC44C7814 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -123,6 +163,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 2A406D1724ED856A00985388 /* Build configuration list for PBXNativeTarget "Publica-APISTests" */;
 			buildPhases = (
+				FED6F06613E0D4D3604E0353 /* [CP] Check Pods Manifest.lock */,
 				2A406D0724ED856A00985388 /* Sources */,
 				2A406D0824ED856A00985388 /* Frameworks */,
 				2A406D0924ED856A00985388 /* Resources */,
@@ -195,12 +236,75 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		7A87609965DBD5CDC44C7814 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-Publica-APIS/Pods-Publica-APIS-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-Publica-APIS/Pods-Publica-APIS-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-Publica-APIS/Pods-Publica-APIS-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		CE7E2E334C01A415DD9F89C2 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-Publica-APIS-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		FED6F06613E0D4D3604E0353 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-Publica-APISTests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		2A406CF124ED856400985388 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2A406CFD24ED856500985388 /* ViewController.swift in Sources */,
 				2A406CF924ED856500985388 /* AppDelegate.swift in Sources */,
 				2A406CFB24ED856500985388 /* SceneDelegate.swift in Sources */,
 			);
@@ -360,11 +464,13 @@
 		};
 		2A406D1524ED856A00985388 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 566F8F8483B7C5EE759AE70E /* Pods-Publica-APIS.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = C7CS39R779;
 				INFOPLIST_FILE = "Publica-APIS/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -372,17 +478,19 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "gabrielferreira.Publica-APIS";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
 		2A406D1624ED856A00985388 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = A1B7F7D259AB49462E6ABF5E /* Pods-Publica-APIS.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = C7CS39R779;
 				INFOPLIST_FILE = "Publica-APIS/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -390,12 +498,13 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "gabrielferreira.Publica-APIS";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
 		2A406D1824ED856A00985388 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 1FEBF2ED318E1D26EF889FE3 /* Pods-Publica-APISTests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -418,6 +527,7 @@
 		};
 		2A406D1924ED856A00985388 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 4894B26DE08CD0268D3D20C0 /* Pods-Publica-APISTests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";

@@ -1,0 +1,6 @@
+framework module Pods_Publica_APISTests {
+  umbrella header "Pods-Publica-APISTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
